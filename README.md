@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/HULL-Logo.svg" align="center" height="100" />
+<img src="public/cheese-bread.png" align="center" height="300" />
 </p>
 <p align="center">
   <strong>Headless Shopify starter built on <a href="https://nextjs.org">Next.js</a></strong> 🤘 <br />
@@ -335,7 +335,3 @@ Huge ups to the following talented and rad folks who helped in countless ways. T
 # 🤝 License
 
 ### [MIT](LICENSE)
-
-> [nickdimatteo.com](https://nickdimatteo.com) &nbsp;&middot;&nbsp;
-> Github [@ndimatteo](https://github.com/ndimatteo) &nbsp;&middot;&nbsp;
-> Instagram [@ndimatteo](https://instagram.com/ndimatteo)
