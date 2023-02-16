@@ -10,7 +10,7 @@ export default function Navbar() {
           Portafolio
         </Flex>
         <Box width={'100px'} align={'center'}>
-          <Image src={logo} width={60} height={60} />
+          <Image src={logo} width={60} height={60} alt={'logo'} />
         </Box>
         <Flex width={'100px'}>Team</Flex>
       </Flex>
